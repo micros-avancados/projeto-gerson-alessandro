@@ -15,8 +15,8 @@ A ideia consiste em criar um embarcado para registro do ponto móvel, o protóti
  
  Por ultimo, caso o tempo possibilite a implementação. Ter uma interface amigável para visualização dos dados.
 
-MÓDULOS:
-# Módulo Sensor Leitor Biométrico
+#MÓDULOS:
+## Módulo Sensor Leitor Biométrico
 ![leitor](http://www.theorycircuit.com/wp-content/uploads/2016/08/fingerprint-sensor-pinout.jpg)
 <br>
 **ESPECIFICAÇÕES:**  
