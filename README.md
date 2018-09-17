@@ -56,3 +56,6 @@ A ideia consiste em criar um embarcado para registro do ponto móvel, o protóti
 O Sensor ascende a luz do leitor somente após estabelecer a conexão com a placa estando com a biblioteca instalada e o programa carregado.  
    
 **BIBLIOTECA:** Adafrut Optical Fingerprint Sensor;  
+
+## Módulo RTC DS1302 (Relógio)
+## Módulo GPS GY-GPS6MV2 
