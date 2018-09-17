@@ -2,7 +2,7 @@
 
 **Raspberry Pi 3**, escolhida pela força da sua comunidade de usuários, é compatível com uma quantidade de sistemas operacionais muito grande, passando do Raspbian – seu OS original – à outras distribuições de Gnu/Linux, Android  e algumas distribuições especializadas como a  XBMC. Também possui um vasto conteúdo que podem ser aplicados ao nosso projeto que foi definido.
 
-![Pinos](https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwje5q_sksPdAhVEF5AKHYHBA9EQjRx6BAgBEAU&url=https://www.jameco.com/Jameco/workshop/circuitnotes/raspberry-pi-circuit-note.html&psig=AOvVaw3YraIFhcqpBSKZRTCw8DW7&ust=1537310516218645)
+![Pinos](https://www.jameco.com/Jameco/workshop/circuitnotes/raspberry_pi_circuit_note_fig2a.jpg)
 
 # **Projeto definido:**
 
