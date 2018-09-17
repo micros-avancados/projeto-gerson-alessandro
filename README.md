@@ -17,6 +17,7 @@ A ideia consiste em criar um embarcado para registro do ponto móvel, o protóti
 
 MÓDULOS:
 # Módulo Sensor Leitor Biométrico
+![enter image description here](https://images-na.ssl-images-amazon.com/images/I/61+SAofrtRL._SX679_.jpg)
 **ESPECIFICAÇÕES:**  
 
  - Modelo: FPM10A;
