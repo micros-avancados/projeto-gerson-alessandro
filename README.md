@@ -7,7 +7,7 @@
 # **Projeto definido:**
 
 Marcação de ponto móvel, utilizando modulo fingerprint, modulo GPS e modulo GSM.
-A ideia consiste em criar um embarcada para registro do ponto móvel, o protótipo deve:
+A ideia consiste em criar um embarcado para registro do ponto móvel, o protótipo deve:
 
  1. Ler a impressão digital e valida-la com a base existente.
  2. Realizar o registro do ponto informando hora, localização e quem foi o colaborador o qual realizou a operação. 
