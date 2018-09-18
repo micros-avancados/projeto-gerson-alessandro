@@ -4,7 +4,7 @@
 
 ![Pinos](https://www.jameco.com/Jameco/workshop/circuitnotes/raspberry_pi_circuit_note_fig2a.jpg)
 
-# **Projeto definido:**
+# **Definições do projeto:**
 
 Marcação de ponto móvel, utilizando modulo fingerprint, modulo GPS e modulo GSM.
 A ideia consiste em criar um embarcado para registro do ponto móvel, o protótipo deve:
