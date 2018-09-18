@@ -58,6 +58,8 @@ O Sensor ascende a luz do leitor somente após estabelecer a conexão com a plac
 ## Módulo RTC DS1302 (Relógio)
 ## Módulo GPS GY-GPS6MV2 
 
+![enter image description here](https://s3-sa-east-1.amazonaws.com/robocore-lojavirtual/976/images/976_1_H.png?20180910181229)
+
 **ESPECIFICAÇÕES**:
 
 -   Módulo GPS GY-NEO6MV2
