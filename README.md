@@ -58,13 +58,12 @@ O Sensor ascende a luz do leitor somente após estabelecer a conexão com a plac
 ## Módulo RTC DS1302 (Relógio)
 ## Módulo GPS GY-GPS6MV2 
 
-**Especificações**:
+**ESPECIFICAÇÕES**:
 
 -   Módulo GPS GY-NEO6MV2
 -   Tensão de Operação: 3,3V
 -   Corrente: 45mA
 -   Número de Canais: 50
--   Acompanha antena (conecte com cuidado)
 -   Protocolo de comunicação: Serial TTL (TxRx)
 -   Acompanha mini bateria para backup
 -   Baudrate: 9600bps
