@@ -47,11 +47,10 @@ A ideia consiste em criar um embarcado para registro do ponto móvel, o protóti
 
 **PINAGEM:**
  - Pino 1 = GND
- - Pino 2 = RX (Ligar no pino Digital 3 do Arduino Uno)
- - Pino 3 = TX (Ligar no pino Digital 2 do Arduino Uno)
+ - Pino 2 = RX 
+ - Pino 3 = TX 
  - PIno 4 = VCC +3.3V 
- - Pino 5 = Não Conectado;
- - Pino 6 = Não Conectado:
+
 
 O Sensor ascende a luz do leitor somente após estabelecer a conexão com a placa estando com a biblioteca instalada e o programa carregado.  
    
