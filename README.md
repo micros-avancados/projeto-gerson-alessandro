@@ -42,8 +42,7 @@ A ideia consiste em criar um embarcado para registro do ponto móvel, o protóti
  - Temperatura de trabalho: -20C a + 50C;
  - Umidade de trabalho: 40% -85% RH;
  - Dimensões totais: 56 x 20 x 21,5 milímetros;
- - Dimensões expostas (quando colocado na caixa): 21 milímetros x 21
-   milímetros x 21 milímetros triangular;
+ 
 
 **PINAGEM:**
  - Pino 1 = GND
